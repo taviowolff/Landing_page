@@ -151,6 +151,10 @@ body {
     display: block;
 }
 
+.projetos .projeto.mostrar {
+    display: block;
+}
+
 .projetos .projeto img {
     height: 100%;
 }
